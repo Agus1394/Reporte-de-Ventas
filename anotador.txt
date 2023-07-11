@@ -1,0 +1,21 @@
+Diseñar una aplicación en C# para la gestión de ventas.
+
+1. La aplicación debe solicitar la cantidad de ventas a procesar
+2. La aplicación debe permitir cargar una a una las ventas
+3. La aplicación debe ofrecer un menu de opciones para generar reportes (1)
+   1. Venta máxima
+   2. Venta mínima
+   3. Venta promedio
+   4. Rendimiento por venta (2)
+   5. Máximo rendimiento
+   6. Mínimo rendimiento
+
+Aclaraciones:
+
+1. El código C# debe contar con una función definida para cada reporte. Es decir, en el código deben existir seis funciones, una para cada reporte, junto con la lógica principal del programa
+2. El rendimiento por venta se calcula así: Para la primera venta, el rendimiento es cero. Para el resto se obtiene dividiendo la venta actual por la anterior (actual/anterior)
+
+1) para que no sea 0 multiplicar por 1
+2) usar un menú 
+3) agregar funciones por opciones (6)
+

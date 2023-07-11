@@ -1,0 +1,15 @@
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\bin\Debug\net7.0\Reporte de Ventas - Final.exe
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\bin\Debug\net7.0\Reporte de Ventas - Final.deps.json
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\bin\Debug\net7.0\Reporte de Ventas - Final.runtimeconfig.json
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\bin\Debug\net7.0\Reporte de Ventas - Final.dll
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\bin\Debug\net7.0\Reporte de Ventas - Final.pdb
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.AssemblyInfoInputs.cache
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.AssemblyInfo.cs
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.dll
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\refint\Reporte de Ventas - Final.dll
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.pdb
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\Reporte de Ventas - Final.genruntimeconfig.cache
+C:\Users\AGUS\Desktop\Reporte de Ventas - Final\obj\Debug\net7.0\ref\Reporte de Ventas - Final.dll
